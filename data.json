@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "128.0.6584.0",
-        "size": 111046336,
-        "sha1": "62e2132b84c29653a520e791856d5d9665610b6b",
-        "sha256": "b0853e17674273052dc40ec157a6c6f7f28b1f16f38c2ccd61a3b2df25f674c5",
+        "version": "128.0.6585.0",
+        "size": 111153344,
+        "sha1": "a268f023bec539d26e2311ae0e3198acfb71ba3a",
+        "sha256": "29d6b70cf9d669b1d14222c2991dcb3c04a0a721ffb0ba24bf35f16386003d75",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/kv5t7zvudcs5fu6g5pomiu7y2m_128.0.6584.0/128.0.6584.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/kv5t7zvudcs5fu6g5pomiu7y2m_128.0.6584.0/128.0.6584.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/kv5t7zvudcs5fu6g5pomiu7y2m_128.0.6584.0/128.0.6584.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/kv5t7zvudcs5fu6g5pomiu7y2m_128.0.6584.0/128.0.6584.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/kv5t7zvudcs5fu6g5pomiu7y2m_128.0.6584.0/128.0.6584.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/kv5t7zvudcs5fu6g5pomiu7y2m_128.0.6584.0/128.0.6584.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acqdpp4jr5uhe7pu3kt2b445fpna_128.0.6585.0/128.0.6585.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acqdpp4jr5uhe7pu3kt2b445fpna_128.0.6585.0/128.0.6585.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/acqdpp4jr5uhe7pu3kt2b445fpna_128.0.6585.0/128.0.6585.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/acqdpp4jr5uhe7pu3kt2b445fpna_128.0.6585.0/128.0.6585.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/acqdpp4jr5uhe7pu3kt2b445fpna_128.0.6585.0/128.0.6585.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/acqdpp4jr5uhe7pu3kt2b445fpna_128.0.6585.0/128.0.6585.0_chrome_installer.exe"
         ]
     }
 }
