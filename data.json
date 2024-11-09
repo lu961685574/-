@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "132.0.6828.0",
-        "size": 116659056,
-        "sha1": "9bcd1aabd92c20e5d2a40ebf63bad5a84e3eab1f",
-        "sha256": "f9a6323fb930b9e2a95d0a78dbbd6f78342b81126aedc5b3ef8176da3298397f",
+        "version": "132.0.6828.1",
+        "size": 150792560,
+        "sha1": "475c1ead81d6336dc2bd166d1b79cdd44ef6ea3e",
+        "sha256": "ef8419de892bcfaa611957e81cb6771952ad3c9bb9744d8e4399aeb14f444275",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acngawrsiaxpop4un5y5s333owra_132.0.6828.0/132.0.6828.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acngawrsiaxpop4un5y5s333owra_132.0.6828.0/132.0.6828.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/acngawrsiaxpop4un5y5s333owra_132.0.6828.0/132.0.6828.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/acngawrsiaxpop4un5y5s333owra_132.0.6828.0/132.0.6828.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/acngawrsiaxpop4un5y5s333owra_132.0.6828.0/132.0.6828.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/acngawrsiaxpop4un5y5s333owra_132.0.6828.0/132.0.6828.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/etkzcqoxnn23bedot4ghwpo2wm_132.0.6828.1/132.0.6828.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/etkzcqoxnn23bedot4ghwpo2wm_132.0.6828.1/132.0.6828.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/etkzcqoxnn23bedot4ghwpo2wm_132.0.6828.1/132.0.6828.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/etkzcqoxnn23bedot4ghwpo2wm_132.0.6828.1/132.0.6828.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/etkzcqoxnn23bedot4ghwpo2wm_132.0.6828.1/132.0.6828.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/etkzcqoxnn23bedot4ghwpo2wm_132.0.6828.1/132.0.6828.1_chrome_installer.exe"
         ]
     }
 }
