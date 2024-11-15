@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "133.0.6837.0",
-        "size": 116847472,
-        "sha1": "af3a45d22be3043ff8b03d5da3db84c52b0b13c2",
-        "sha256": "9b0c72100b7dac09aab61d08bb9bd0eb65b08b1c226d70b00bacdda81001e0e5",
+        "version": "133.0.6837.1",
+        "size": 150935920,
+        "sha1": "11acaa1e1f053845d21b88ff4550274625e22fd0",
+        "sha256": "9ab41d5675f3e54e18985122b0ac98bf0ae595850622b9474190ea17d005814d",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/frmtnlkqtdmtwpaca465vgdlg4_133.0.6837.0/133.0.6837.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/frmtnlkqtdmtwpaca465vgdlg4_133.0.6837.0/133.0.6837.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/frmtnlkqtdmtwpaca465vgdlg4_133.0.6837.0/133.0.6837.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/frmtnlkqtdmtwpaca465vgdlg4_133.0.6837.0/133.0.6837.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/frmtnlkqtdmtwpaca465vgdlg4_133.0.6837.0/133.0.6837.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/frmtnlkqtdmtwpaca465vgdlg4_133.0.6837.0/133.0.6837.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/p5elavqcjbeseu5xqqxni4xqki_133.0.6837.1/133.0.6837.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/p5elavqcjbeseu5xqqxni4xqki_133.0.6837.1/133.0.6837.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/p5elavqcjbeseu5xqqxni4xqki_133.0.6837.1/133.0.6837.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/p5elavqcjbeseu5xqqxni4xqki_133.0.6837.1/133.0.6837.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/p5elavqcjbeseu5xqqxni4xqki_133.0.6837.1/133.0.6837.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/p5elavqcjbeseu5xqqxni4xqki_133.0.6837.1/133.0.6837.1_chrome_installer.exe"
         ]
     }
 }
