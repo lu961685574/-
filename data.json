@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "133.0.6841.0",
-        "size": 116725616,
-        "sha1": "0fd37f81f9e00d7611cc80e57c1090efb9d1c235",
-        "sha256": "9d7822d4d95b5020746b761dfef1c6b8853b16d5e6f177bbf1c44447a60c269d",
+        "version": "133.0.6841.1",
+        "size": 150985072,
+        "sha1": "b164d49dc504383f64bc52d0e87e8c57b43dc99f",
+        "sha256": "c1894a2bf5b896dc09c8d45136750a9249d4bc1c8041a9d775207f1c6e7706ad",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/kj27q7wj7fyvl4oi2fpcltapq4_133.0.6841.0/133.0.6841.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/kj27q7wj7fyvl4oi2fpcltapq4_133.0.6841.0/133.0.6841.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/kj27q7wj7fyvl4oi2fpcltapq4_133.0.6841.0/133.0.6841.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/kj27q7wj7fyvl4oi2fpcltapq4_133.0.6841.0/133.0.6841.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/kj27q7wj7fyvl4oi2fpcltapq4_133.0.6841.0/133.0.6841.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/kj27q7wj7fyvl4oi2fpcltapq4_133.0.6841.0/133.0.6841.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/cftdqto2xy4l2dkv35bibqwxfi_133.0.6841.1/133.0.6841.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/cftdqto2xy4l2dkv35bibqwxfi_133.0.6841.1/133.0.6841.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/cftdqto2xy4l2dkv35bibqwxfi_133.0.6841.1/133.0.6841.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/cftdqto2xy4l2dkv35bibqwxfi_133.0.6841.1/133.0.6841.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/cftdqto2xy4l2dkv35bibqwxfi_133.0.6841.1/133.0.6841.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/cftdqto2xy4l2dkv35bibqwxfi_133.0.6841.1/133.0.6841.1_chrome_installer.exe"
         ]
     }
 }
