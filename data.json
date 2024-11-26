@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "133.0.6860.0",
-        "size": 117302640,
-        "sha1": "00d75f17792984f533038289ef6b18ea67f0b9d2",
-        "sha256": "3b558cdb3f48b6495c5352329791c0c524180c7ad2dd6a0e21d610bf811b1119",
+        "version": "133.0.6860.1",
+        "size": 151230320,
+        "sha1": "b50876541d6665d3df5839a3c6b41c91ec7c20e9",
+        "sha256": "a373be727e303ac29e1652ff92228b62537a289cd7dda85c6c61a52b24bf4b72",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/admfrwmbum36mzu2odsdxaiefs6a_133.0.6860.0/133.0.6860.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/admfrwmbum36mzu2odsdxaiefs6a_133.0.6860.0/133.0.6860.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/admfrwmbum36mzu2odsdxaiefs6a_133.0.6860.0/133.0.6860.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/admfrwmbum36mzu2odsdxaiefs6a_133.0.6860.0/133.0.6860.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/admfrwmbum36mzu2odsdxaiefs6a_133.0.6860.0/133.0.6860.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/admfrwmbum36mzu2odsdxaiefs6a_133.0.6860.0/133.0.6860.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/accup6zoy7gmu4amwd4yaepmmvga_133.0.6860.1/133.0.6860.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/accup6zoy7gmu4amwd4yaepmmvga_133.0.6860.1/133.0.6860.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/accup6zoy7gmu4amwd4yaepmmvga_133.0.6860.1/133.0.6860.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/accup6zoy7gmu4amwd4yaepmmvga_133.0.6860.1/133.0.6860.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/accup6zoy7gmu4amwd4yaepmmvga_133.0.6860.1/133.0.6860.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/accup6zoy7gmu4amwd4yaepmmvga_133.0.6860.1/133.0.6860.1_chrome_installer.exe"
         ]
     }
 }
