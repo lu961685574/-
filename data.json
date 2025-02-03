@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "134.0.6995.0",
-        "size": 120053616,
-        "sha1": "c04cb3bda92356f2781e4564155a2e9e0b0f4cd7",
-        "sha256": "d765c1078deea4ec4297dcf224fd1f45a5d9302935ad11532096344380d60c6e",
+        "version": "134.0.6995.1",
+        "size": 156559728,
+        "sha1": "fb2ba90f4d7229347f64106185d8b90196913dcc",
+        "sha256": "1743036d22cce187c50b5a626d0aaf05507c74d6d27c204b35302eb965668e55",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acoly76oz73h3fn2uefq5t7yndsa_134.0.6995.0/134.0.6995.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acoly76oz73h3fn2uefq5t7yndsa_134.0.6995.0/134.0.6995.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/acoly76oz73h3fn2uefq5t7yndsa_134.0.6995.0/134.0.6995.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/acoly76oz73h3fn2uefq5t7yndsa_134.0.6995.0/134.0.6995.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/acoly76oz73h3fn2uefq5t7yndsa_134.0.6995.0/134.0.6995.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/acoly76oz73h3fn2uefq5t7yndsa_134.0.6995.0/134.0.6995.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/fc4d7cybsnyrxfpwifi6afxaom_134.0.6995.1/134.0.6995.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/fc4d7cybsnyrxfpwifi6afxaom_134.0.6995.1/134.0.6995.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/fc4d7cybsnyrxfpwifi6afxaom_134.0.6995.1/134.0.6995.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/fc4d7cybsnyrxfpwifi6afxaom_134.0.6995.1/134.0.6995.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/fc4d7cybsnyrxfpwifi6afxaom_134.0.6995.1/134.0.6995.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/fc4d7cybsnyrxfpwifi6afxaom_134.0.6995.1/134.0.6995.1_chrome_installer.exe"
         ]
     }
 }
