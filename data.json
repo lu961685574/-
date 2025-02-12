@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "135.0.7013.0",
-        "size": 126109040,
-        "sha1": "a922b1c16bfcea1b6f2261afa9cb14fcbf5d2293",
-        "sha256": "7aa06131bd5d1ae14defdbed747460e6562c5b437684521edd27410a37e64269",
+        "version": "135.0.7013.1",
+        "size": 158288240,
+        "sha1": "c2e999f1deed4b9a1180e7020c40fb3a6945e77c",
+        "sha256": "6bef118549b7c529b2e60b816ceea526e1d8d44b7bb5f9785d64c7e9cd1c8e8d",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ldy5jttd6rfwqy3mwyli5gxezy_135.0.7013.0/135.0.7013.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ldy5jttd6rfwqy3mwyli5gxezy_135.0.7013.0/135.0.7013.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/ldy5jttd6rfwqy3mwyli5gxezy_135.0.7013.0/135.0.7013.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/ldy5jttd6rfwqy3mwyli5gxezy_135.0.7013.0/135.0.7013.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/ldy5jttd6rfwqy3mwyli5gxezy_135.0.7013.0/135.0.7013.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/ldy5jttd6rfwqy3mwyli5gxezy_135.0.7013.0/135.0.7013.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/jbdqtbwqn44bmdhxx267lk2m3e_135.0.7013.1/135.0.7013.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/jbdqtbwqn44bmdhxx267lk2m3e_135.0.7013.1/135.0.7013.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/jbdqtbwqn44bmdhxx267lk2m3e_135.0.7013.1/135.0.7013.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/jbdqtbwqn44bmdhxx267lk2m3e_135.0.7013.1/135.0.7013.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/jbdqtbwqn44bmdhxx267lk2m3e_135.0.7013.1/135.0.7013.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/jbdqtbwqn44bmdhxx267lk2m3e_135.0.7013.1/135.0.7013.1_chrome_installer.exe"
         ]
     }
 }
