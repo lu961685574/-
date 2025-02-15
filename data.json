@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "135.0.7019.0",
-        "size": 126088560,
-        "sha1": "9683bbe7bef4b51d047bbbf7f1490171afde4280",
-        "sha256": "7d134de6b0999881b747c2b5df1c2d79c694d450e623eb8969079decbdf54847",
+        "version": "135.0.7019.1",
+        "size": 158229360,
+        "sha1": "959c93dca8982bec2439c93e7c7ac534f400a2c6",
+        "sha256": "b427466dcd852de8676c79400840c003639019e7acd2af1e6d5cfd6442f4c4e1",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/awailsygt24stdc7oeiaxi4w2m_135.0.7019.0/135.0.7019.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/awailsygt24stdc7oeiaxi4w2m_135.0.7019.0/135.0.7019.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/awailsygt24stdc7oeiaxi4w2m_135.0.7019.0/135.0.7019.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/awailsygt24stdc7oeiaxi4w2m_135.0.7019.0/135.0.7019.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/awailsygt24stdc7oeiaxi4w2m_135.0.7019.0/135.0.7019.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/awailsygt24stdc7oeiaxi4w2m_135.0.7019.0/135.0.7019.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/cqxjmbawdsgk44h4nknbt3ok7u_135.0.7019.1/135.0.7019.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/cqxjmbawdsgk44h4nknbt3ok7u_135.0.7019.1/135.0.7019.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/cqxjmbawdsgk44h4nknbt3ok7u_135.0.7019.1/135.0.7019.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/cqxjmbawdsgk44h4nknbt3ok7u_135.0.7019.1/135.0.7019.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/cqxjmbawdsgk44h4nknbt3ok7u_135.0.7019.1/135.0.7019.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/cqxjmbawdsgk44h4nknbt3ok7u_135.0.7019.1/135.0.7019.1_chrome_installer.exe"
         ]
     }
 }
