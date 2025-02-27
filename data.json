@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "135.0.7038.0",
-        "size": 125751152,
-        "sha1": "a21d6bbca66e68737bc678bc86da087ec0fa2466",
-        "sha256": "4d0720b554643df64c2b55d666174699da53a4cc44ea1e409e9967807d41d8b8",
+        "version": "135.0.7038.1",
+        "size": 158458736,
+        "sha1": "ca0249e84d749bf5ecbaa371992d2102f5ddddc1",
+        "sha256": "caa6f40197cff466321f36c9624bef17fac5134abd982a73c65bbfa5df7bfe68",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/hsneydy35n7vrmjxb7jbicniau_135.0.7038.0/135.0.7038.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/hsneydy35n7vrmjxb7jbicniau_135.0.7038.0/135.0.7038.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/hsneydy35n7vrmjxb7jbicniau_135.0.7038.0/135.0.7038.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/hsneydy35n7vrmjxb7jbicniau_135.0.7038.0/135.0.7038.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/hsneydy35n7vrmjxb7jbicniau_135.0.7038.0/135.0.7038.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/hsneydy35n7vrmjxb7jbicniau_135.0.7038.0/135.0.7038.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/cq2xb3wrf6kkq4be4sf7hgkgdy_135.0.7038.1/135.0.7038.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/cq2xb3wrf6kkq4be4sf7hgkgdy_135.0.7038.1/135.0.7038.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/cq2xb3wrf6kkq4be4sf7hgkgdy_135.0.7038.1/135.0.7038.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/cq2xb3wrf6kkq4be4sf7hgkgdy_135.0.7038.1/135.0.7038.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/cq2xb3wrf6kkq4be4sf7hgkgdy_135.0.7038.1/135.0.7038.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/cq2xb3wrf6kkq4be4sf7hgkgdy_135.0.7038.1/135.0.7038.1_chrome_installer.exe"
         ]
     }
 }
