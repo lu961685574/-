@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-03-02 18:18:50 (UTC-4)
+2025-03-02 19:18:30 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/cj6jdpaw3wyqippnny3moct7qi_135.0.7046.1/135.0.7046.1_chrome_installer.exe](https://dl.google.com/release2/chrome/cj6jdpaw3wyqippnny3moct7qi_135.0.7046.1/135.0.7046.1_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：135.0.7045.1  
-**文件大小**：150.56 MB  
-**校验值（Sha256）**：830082c9ff952728b24e8add93cf1e68ea2bb8407880173d0d045e29f2b9cf7f  
-**下载链接**：[https://dl.google.com/release2/chrome/azmmpb3xz2wahldkf7bjhihyni_135.0.7045.1/135.0.7045.1_chrome_installer.exe](https://dl.google.com/release2/chrome/azmmpb3xz2wahldkf7bjhihyni_135.0.7045.1/135.0.7045.1_chrome_installer.exe)  
+**最新版本**：135.0.7046.0  
+**文件大小**：114.78 MB  
+**校验值（Sha256）**：3f324ed88ff5caab5ac9d525d02c5d7b70c98995906d8824a23bec096d41d6d5  
+**下载链接**：[https://dl.google.com/release2/chrome/adontrfz2gyxlk2mnwvlatp2g5ma_135.0.7046.0/135.0.7046.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adontrfz2gyxlk2mnwvlatp2g5ma_135.0.7046.0/135.0.7046.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：135.0.7045.0  
-**文件大小**：120.04 MB  
-**校验值（Sha256）**：31408120bfcee7b10df60119aab993e8870e0305eee0a858379183779140e414  
-**下载链接**：[https://dl.google.com/release2/chrome/adl7zmwycn3i4x26oqeycw52ifmq_135.0.7045.0/135.0.7045.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adl7zmwycn3i4x26oqeycw52ifmq_135.0.7045.0/135.0.7045.0_chrome_installer.exe)  
+**最新版本**：135.0.7046.0  
+**文件大小**：120.24 MB  
+**校验值（Sha256）**：0453fdfd56c723a62b1c2d97ebb87f2592a59206af284fd53cdbd9b1e3bc2e9d  
+**下载链接**：[https://dl.google.com/release2/chrome/adgmovqygxpmceb2pwn6jg65gs2q_135.0.7046.0/135.0.7046.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adgmovqygxpmceb2pwn6jg65gs2q_135.0.7046.0/135.0.7046.0_chrome_installer.exe)  
 
