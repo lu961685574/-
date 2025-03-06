@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-03-06 05:22:18 (UTC-4)
+2025-03-06 06:22:50 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/awk7nmq3stgjxkhiyvcft6lgge_135.0.7039.0/135.0.7039.0_chrome_installer.exe](https://dl.google.com/release2/chrome/awk7nmq3stgjxkhiyvcft6lgge_135.0.7039.0/135.0.7039.0_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：136.0.7051.1  
-**文件大小**：120.82 MB  
-**校验值（Sha256）**：6f64b41e499a7535e0d130f65f3b5f98eeda96919aa728141390475f8175ace9  
-**下载链接**：[https://dl.google.com/release2/chrome/admkssg2rgzk36yxfixgjkdqakvq_136.0.7051.1/136.0.7051.1_chrome_installer.exe](https://dl.google.com/release2/chrome/admkssg2rgzk36yxfixgjkdqakvq_136.0.7051.1/136.0.7051.1_chrome_installer.exe)  
+**最新版本**：136.0.7052.0  
+**文件大小**：102.79 MB  
+**校验值（Sha256）**：6859bb00a7380c9d8831670ae4b0df21ce48af841d1e051f5796634777de5654  
+**下载链接**：[https://dl.google.com/release2/chrome/adckn7sxmmcrpcbgauwtvizxcyia_136.0.7052.0/136.0.7052.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adckn7sxmmcrpcbgauwtvizxcyia_136.0.7052.0/136.0.7052.0_chrome_installer.exe)  
 
 ## win canary x64
 **最新版本**：136.0.7052.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acoc6p26wvrupwkyi62hcl2nhdca_136.0.7052.0/136.0.7052.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acoc6p26wvrupwkyi62hcl2nhdca_136.0.7052.0/136.0.7052.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：136.0.7051.0  
-**文件大小**：120.24 MB  
-**校验值（Sha256）**：c692bb758db70c5db32d77b9ab6ba9bef8d44d06970bac98f36ca35e9ddab952  
-**下载链接**：[https://dl.google.com/release2/chrome/dbvaexup4ouok56cubiehe2ika_136.0.7051.0/136.0.7051.0_chrome_installer.exe](https://dl.google.com/release2/chrome/dbvaexup4ouok56cubiehe2ika_136.0.7051.0/136.0.7051.0_chrome_installer.exe)  
+**最新版本**：136.0.7052.0  
+**文件大小**：120.23 MB  
+**校验值（Sha256）**：0aa3879d2c5bba6edca35b55d73334b87d6d1d1ea7f06da2eb2bf40949658316  
+**下载链接**：[https://dl.google.com/release2/chrome/f66heu35kmd6bs6xvuoud7mb6y_136.0.7052.0/136.0.7052.0_chrome_installer.exe](https://dl.google.com/release2/chrome/f66heu35kmd6bs6xvuoud7mb6y_136.0.7052.0/136.0.7052.0_chrome_installer.exe)  
 
