@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-03-13 18:18:53 (UTC-4)
+2025-03-13 19:19:27 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,16 +73,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ogi3mv2hkelgst2skhi6dbnnfu_136.0.7064.0/136.0.7064.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ogi3mv2hkelgst2skhi6dbnnfu_136.0.7064.0/136.0.7064.0_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：136.0.7067.0  
+**最新版本**：136.0.7067.2  
 **文件大小**：103.16 MB  
-**校验值（Sha256）**：6eaefebfc21808677d68bb37175dc51d21147ad94b0347937abb11577bf95f1b  
-**下载链接**：[https://dl.google.com/release2/chrome/bfxoowzm7b7wobq2syabkvkgou_136.0.7067.0/136.0.7067.0_chrome_installer.exe](https://dl.google.com/release2/chrome/bfxoowzm7b7wobq2syabkvkgou_136.0.7067.0/136.0.7067.0_chrome_installer.exe)  
+**校验值（Sha256）**：654fbeb4615cd9b99ea98d19dba56ea110ec278d285cdb8519d402f291d9a4cd  
+**下载链接**：[https://dl.google.com/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe](https://dl.google.com/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：136.0.7067.0  
-**文件大小**：115.18 MB  
-**校验值（Sha256）**：b68b923d95afd2c68002a7573031316fe7dc7716e45dc694523faaca2921d7fd  
-**下载链接**：[https://dl.google.com/release2/chrome/ach5gaweqeboc44sqio4mquyeu5q_136.0.7067.0/136.0.7067.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ach5gaweqeboc44sqio4mquyeu5q_136.0.7067.0/136.0.7067.0_chrome_installer.exe)  
+**最新版本**：136.0.7067.2  
+**文件大小**：115.2 MB  
+**校验值（Sha256）**：a309ecea42fd8c7941044db21090c2270c62739b1d0cbac65d112660271d2de7  
+**下载链接**：[https://dl.google.com/release2/chrome/adaqmq47mrsus6ajwuy2ucdw25ha_136.0.7067.2/136.0.7067.2_chrome_installer.exe](https://dl.google.com/release2/chrome/adaqmq47mrsus6ajwuy2ucdw25ha_136.0.7067.2/136.0.7067.2_chrome_installer.exe)  
 
 ## win canary arm64
 **最新版本**：136.0.7067.0  
