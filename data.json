@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "136.0.7076.0",
-        "size": 125985648,
-        "sha1": "30072bcfb6fc6abe6e561830bdd77044f9e96444",
-        "sha256": "3403964167100676565fd9d282469cfad46a29835490d4eda51be9f09d637896",
+        "version": "136.0.7076.1",
+        "size": 159272304,
+        "sha1": "9bfa5824517c076bebace34a5a99846d3c0dab16",
+        "sha256": "c86dbe5ba3e66f6cd7c89646571694883c03f1f5bd35337d9860b5fc9100d227",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/lev5rh5mfdgnrgkzea27mezdoa_136.0.7076.0/136.0.7076.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/lev5rh5mfdgnrgkzea27mezdoa_136.0.7076.0/136.0.7076.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/lev5rh5mfdgnrgkzea27mezdoa_136.0.7076.0/136.0.7076.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/lev5rh5mfdgnrgkzea27mezdoa_136.0.7076.0/136.0.7076.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/lev5rh5mfdgnrgkzea27mezdoa_136.0.7076.0/136.0.7076.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/lev5rh5mfdgnrgkzea27mezdoa_136.0.7076.0/136.0.7076.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/muwluqlyj2yikm2ajyfflft56q_136.0.7076.1/136.0.7076.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/muwluqlyj2yikm2ajyfflft56q_136.0.7076.1/136.0.7076.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/muwluqlyj2yikm2ajyfflft56q_136.0.7076.1/136.0.7076.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/muwluqlyj2yikm2ajyfflft56q_136.0.7076.1/136.0.7076.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/muwluqlyj2yikm2ajyfflft56q_136.0.7076.1/136.0.7076.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/muwluqlyj2yikm2ajyfflft56q_136.0.7076.1/136.0.7076.1_chrome_installer.exe"
         ]
     }
 }
