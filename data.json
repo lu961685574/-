@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "137.0.7125.0",
-        "size": 126769520,
-        "sha1": "b649df32e9090c6f7cf907733116120dc300caf4",
-        "sha256": "d7eb3011f72fffd2d366b5b29f88b6380867bd9d3d2519645b96e49bcfb32ede",
+        "version": "137.0.7125.1",
+        "size": 160529264,
+        "sha1": "4af7b4f2d64c06fae374fb47009bb8d2436a5e86",
+        "sha256": "8951d248fa59df531552c984b37926401d203b6599da439efcd9c49e32ea6b75",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ihk57flogixhakadio3lymb4rm_137.0.7125.0/137.0.7125.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ihk57flogixhakadio3lymb4rm_137.0.7125.0/137.0.7125.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/ihk57flogixhakadio3lymb4rm_137.0.7125.0/137.0.7125.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/ihk57flogixhakadio3lymb4rm_137.0.7125.0/137.0.7125.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/ihk57flogixhakadio3lymb4rm_137.0.7125.0/137.0.7125.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/ihk57flogixhakadio3lymb4rm_137.0.7125.0/137.0.7125.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adp3v6tgqbgltqlsfjrzyeuamboa_137.0.7125.1/137.0.7125.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adp3v6tgqbgltqlsfjrzyeuamboa_137.0.7125.1/137.0.7125.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/adp3v6tgqbgltqlsfjrzyeuamboa_137.0.7125.1/137.0.7125.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/adp3v6tgqbgltqlsfjrzyeuamboa_137.0.7125.1/137.0.7125.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/adp3v6tgqbgltqlsfjrzyeuamboa_137.0.7125.1/137.0.7125.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/adp3v6tgqbgltqlsfjrzyeuamboa_137.0.7125.1/137.0.7125.1_chrome_installer.exe"
         ]
     }
 }
