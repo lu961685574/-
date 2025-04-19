@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "137.0.7133.0",
-        "size": 127449456,
-        "sha1": "1b3191f7ef0364efb6f155aaec89de20c9356f7d",
-        "sha256": "673da8fd9719d3d865b6da39c3e746d0212d64a051936673500f6be8e6ab2baf",
+        "version": "137.0.7133.1",
+        "size": 161212784,
+        "sha1": "be6f85f08c8040b631a87909cedf86bd3c2d4c7c",
+        "sha256": "926e4c349910ae524ad11f3ab4ee8b6ae9cc4c89eb4e923943b314e883937cf3",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/gfkdfwdwlsb3m23blqtvd4e52i_137.0.7133.0/137.0.7133.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/gfkdfwdwlsb3m23blqtvd4e52i_137.0.7133.0/137.0.7133.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/gfkdfwdwlsb3m23blqtvd4e52i_137.0.7133.0/137.0.7133.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/gfkdfwdwlsb3m23blqtvd4e52i_137.0.7133.0/137.0.7133.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/gfkdfwdwlsb3m23blqtvd4e52i_137.0.7133.0/137.0.7133.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/gfkdfwdwlsb3m23blqtvd4e52i_137.0.7133.0/137.0.7133.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/pj76h4stdmbxas4e4kpcgacx2e_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/pj76h4stdmbxas4e4kpcgacx2e_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/pj76h4stdmbxas4e4kpcgacx2e_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/pj76h4stdmbxas4e4kpcgacx2e_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/pj76h4stdmbxas4e4kpcgacx2e_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/pj76h4stdmbxas4e4kpcgacx2e_137.0.7133.1/137.0.7133.1_chrome_installer.exe"
         ]
     }
 }
