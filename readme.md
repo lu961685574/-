@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-04-29 04:31:06 (UTC-4)
+2025-04-29 05:24:59 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,16 +73,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/dvwcjhza36rdiybnozaijqfzb4_137.0.7141.3/137.0.7141.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dvwcjhza36rdiybnozaijqfzb4_137.0.7141.3/137.0.7141.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：137.0.7150.0  
-**文件大小**：105.64 MB  
-**校验值（Sha256）**：75afb120bdf0289aa874f86d4829dc2692abe5df31cff1571285412f755854f0  
-**下载链接**：[https://dl.google.com/release2/chrome/naujfwhbxbmuddgysh77xed5pm_137.0.7150.0/137.0.7150.0_chrome_installer.exe](https://dl.google.com/release2/chrome/naujfwhbxbmuddgysh77xed5pm_137.0.7150.0/137.0.7150.0_chrome_installer.exe)  
+**最新版本**：137.0.7151.0  
+**文件大小**：105.77 MB  
+**校验值（Sha256）**：00dd085fee4555fdf8fa4291f57c5f37057c4cf017a21fd0d44a4a103b1108f7  
+**下载链接**：[https://dl.google.com/release2/chrome/nixtsha5ra3j6awkkans5l6o2q_137.0.7151.0/137.0.7151.0_chrome_installer.exe](https://dl.google.com/release2/chrome/nixtsha5ra3j6awkkans5l6o2q_137.0.7151.0/137.0.7151.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：137.0.7150.1  
-**文件大小**：153.78 MB  
-**校验值（Sha256）**：8cd7e2978c27dc54e171e5832a7a480c6942aba2cf6c34b1ec47ce75377ddb15  
-**下载链接**：[https://dl.google.com/release2/chrome/accz7xsipdh6rsagbniwpzwinfoq_137.0.7150.1/137.0.7150.1_chrome_installer.exe](https://dl.google.com/release2/chrome/accz7xsipdh6rsagbniwpzwinfoq_137.0.7150.1/137.0.7150.1_chrome_installer.exe)  
+**最新版本**：137.0.7151.0  
+**文件大小**：117.01 MB  
+**校验值（Sha256）**：d2b61789269039c68cecfe5a82fadca75734164c98c1e543cf0d5eaf36615c63  
+**下载链接**：[https://dl.google.com/release2/chrome/cv6kwrxx4gwasr6j5rllgsmkqq_137.0.7151.0/137.0.7151.0_chrome_installer.exe](https://dl.google.com/release2/chrome/cv6kwrxx4gwasr6j5rllgsmkqq_137.0.7151.0/137.0.7151.0_chrome_installer.exe)  
 
 ## win canary arm64
 **最新版本**：137.0.7150.0  
