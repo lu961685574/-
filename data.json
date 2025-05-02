@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "138.0.7155.0",
-        "size": 127053680,
-        "sha1": "7188dd3af467af717cb45cec3d593855e2c3723f",
-        "sha256": "19714e53520bce9e5251358d8e1c8b62c7fe797da4de04184721074659114e26",
+        "version": "138.0.7155.1",
+        "size": 161593200,
+        "sha1": "4261e866faab56d51de9e320d32ced735a0ac4bd",
+        "sha256": "4d73fb7376bebc6ee1eafc0a0564a5be9c727d2cd515d41dc0eaeb922efa9fee",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/mmzfzwu4q3itk7bkiiojuj5taq_138.0.7155.0/138.0.7155.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/mmzfzwu4q3itk7bkiiojuj5taq_138.0.7155.0/138.0.7155.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/mmzfzwu4q3itk7bkiiojuj5taq_138.0.7155.0/138.0.7155.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/mmzfzwu4q3itk7bkiiojuj5taq_138.0.7155.0/138.0.7155.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/mmzfzwu4q3itk7bkiiojuj5taq_138.0.7155.0/138.0.7155.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/mmzfzwu4q3itk7bkiiojuj5taq_138.0.7155.0/138.0.7155.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/brb62efg2mzupmynbk7tvdinoi_138.0.7155.1/138.0.7155.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/brb62efg2mzupmynbk7tvdinoi_138.0.7155.1/138.0.7155.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/brb62efg2mzupmynbk7tvdinoi_138.0.7155.1/138.0.7155.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/brb62efg2mzupmynbk7tvdinoi_138.0.7155.1/138.0.7155.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/brb62efg2mzupmynbk7tvdinoi_138.0.7155.1/138.0.7155.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/brb62efg2mzupmynbk7tvdinoi_138.0.7155.1/138.0.7155.1_chrome_installer.exe"
         ]
     }
 }
