@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-05-07 04:31:01 (UTC-4)
+2025-05-07 05:25:05 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,16 +73,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acubypvoabloha4t4dvjybpfgi2a_138.0.7153.0/138.0.7153.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acubypvoabloha4t4dvjybpfgi2a_138.0.7153.0/138.0.7153.0_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：138.0.7165.0  
-**文件大小**：104.97 MB  
-**校验值（Sha256）**：9ce7792280d1b5ccd08abc3a60c75d5cb9fc1041bd8d80e753071b179fe855ed  
-**下载链接**：[https://dl.google.com/release2/chrome/adsjtx42wgj6y3ovlmp2llgnrnfa_138.0.7165.0/138.0.7165.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adsjtx42wgj6y3ovlmp2llgnrnfa_138.0.7165.0/138.0.7165.0_chrome_installer.exe)  
+**最新版本**：138.0.7166.0  
+**文件大小**：104.82 MB  
+**校验值（Sha256）**：1699058cff86c1aa0703f513539890325b5d36661a9da6d46a3bec074ce9a43a  
+**下载链接**：[https://dl.google.com/release2/chrome/ad5cvdh5sz2ev2pr3cxzlz4gbfta_138.0.7166.0/138.0.7166.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ad5cvdh5sz2ev2pr3cxzlz4gbfta_138.0.7166.0/138.0.7166.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：138.0.7165.1  
-**文件大小**：154.09 MB  
-**校验值（Sha256）**：3e15d7c6e87091ad5a607e9e1686dda10566e4911735b805559193d396c1a160  
-**下载链接**：[https://dl.google.com/release2/chrome/ac6ke723bhutvszi56xykykrk2ra_138.0.7165.1/138.0.7165.1_chrome_installer.exe](https://dl.google.com/release2/chrome/ac6ke723bhutvszi56xykykrk2ra_138.0.7165.1/138.0.7165.1_chrome_installer.exe)  
+**最新版本**：138.0.7166.0  
+**文件大小**：116.95 MB  
+**校验值（Sha256）**：06ea53c444f701f41f27ff0f5b10b4f2937bfcad660df15d1cacf0375b04a47c  
+**下载链接**：[https://dl.google.com/release2/chrome/aca4dn7dssi56xbrr5lihrllmova_138.0.7166.0/138.0.7166.0_chrome_installer.exe](https://dl.google.com/release2/chrome/aca4dn7dssi56xbrr5lihrllmova_138.0.7166.0/138.0.7166.0_chrome_installer.exe)  
 
 ## win canary arm64
 **最新版本**：138.0.7165.1  
