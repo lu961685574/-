@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-05-15 00:27:15 (UTC-4)
+2025-05-15 01:22:50 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,10 +79,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/mejlcr7awckr6g4nonxywfstae_138.0.7179.0/138.0.7179.0_chrome_installer.exe](https://dl.google.com/release2/chrome/mejlcr7awckr6g4nonxywfstae_138.0.7179.0/138.0.7179.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：138.0.7179.0  
-**文件大小**：117.18 MB  
-**校验值（Sha256）**：8aa0063960961cc6936cc34e69227e75c80d99ca673147691039cc7e61a515a8  
-**下载链接**：[https://dl.google.com/release2/chrome/acwpia7psfoaw6zjz72zjcczafma_138.0.7179.0/138.0.7179.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acwpia7psfoaw6zjz72zjcczafma_138.0.7179.0/138.0.7179.0_chrome_installer.exe)  
+**最新版本**：138.0.7179.1  
+**文件大小**：154.21 MB  
+**校验值（Sha256）**：1b938451e17ba7a01bd5f0786b99e3696f6f32a4ef5cf7ad2ce3022de3f2bc15  
+**下载链接**：[https://dl.google.com/release2/chrome/orpbm4to7cpv3bh4etlsceksbi_138.0.7179.1/138.0.7179.1_chrome_installer.exe](https://dl.google.com/release2/chrome/orpbm4to7cpv3bh4etlsceksbi_138.0.7179.1/138.0.7179.1_chrome_installer.exe)  
 
 ## win canary arm64
 **最新版本**：138.0.7179.0  
