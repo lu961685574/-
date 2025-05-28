@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-05-28 18:21:27 (UTC-4)
+2025-05-28 19:21:20 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acn2vmefa2zr7gk5j5ojxxgevxwa_139.0.7206.2/139.0.7206.2_chrome_installer.exe](https://dl.google.com/release2/chrome/acn2vmefa2zr7gk5j5ojxxgevxwa_139.0.7206.2/139.0.7206.2_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：139.0.7205.1  
-**文件大小**：154.99 MB  
-**校验值（Sha256）**：fd9dee821c3de621a0bc1e3e465f5e0ead98b0e58c1d88db5ca20791fc7e8f82  
-**下载链接**：[https://dl.google.com/release2/chrome/ad6vdc74npnjzwrhqxtjwlxgefsa_139.0.7205.1/139.0.7205.1_chrome_installer.exe](https://dl.google.com/release2/chrome/ad6vdc74npnjzwrhqxtjwlxgefsa_139.0.7205.1/139.0.7205.1_chrome_installer.exe)  
+**最新版本**：139.0.7206.2  
+**文件大小**：121.81 MB  
+**校验值（Sha256）**：f0cb4a555348b721dbe149c9b72c263af4632971e6cc8661535f06da67dbfedb  
+**下载链接**：[https://dl.google.com/release2/chrome/javok5xrsx6hy4npj7ywshgvua_139.0.7206.2/139.0.7206.2_chrome_installer.exe](https://dl.google.com/release2/chrome/javok5xrsx6hy4npj7ywshgvua_139.0.7206.2/139.0.7206.2_chrome_installer.exe)  
 
