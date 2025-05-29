@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "139.0.7207.0",
-        "size": 127799664,
-        "sha1": "737ededa49cb467f3489825ac568b7f03732eeb6",
-        "sha256": "c5bea7776c98d2b951ea2dcd132b1ef07c799b78d62359061e48c6d62fa93d96",
+        "version": "139.0.7207.1",
+        "size": 162614640,
+        "sha1": "060139b5f3bc0785f2efe3a525a4f65bd6ac4d53",
+        "sha256": "42953b329dc24304642661a56e6a5edf969b87ce8cc8e10fbf284f04c209e1de",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/dgdg4kao3krfu64qvfoxhsy4zi_139.0.7207.0/139.0.7207.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/dgdg4kao3krfu64qvfoxhsy4zi_139.0.7207.0/139.0.7207.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/dgdg4kao3krfu64qvfoxhsy4zi_139.0.7207.0/139.0.7207.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/dgdg4kao3krfu64qvfoxhsy4zi_139.0.7207.0/139.0.7207.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/dgdg4kao3krfu64qvfoxhsy4zi_139.0.7207.0/139.0.7207.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/dgdg4kao3krfu64qvfoxhsy4zi_139.0.7207.0/139.0.7207.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/nx2feuhmbx5ht7qvdplc75ex4q_139.0.7207.1/139.0.7207.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/nx2feuhmbx5ht7qvdplc75ex4q_139.0.7207.1/139.0.7207.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/nx2feuhmbx5ht7qvdplc75ex4q_139.0.7207.1/139.0.7207.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/nx2feuhmbx5ht7qvdplc75ex4q_139.0.7207.1/139.0.7207.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/nx2feuhmbx5ht7qvdplc75ex4q_139.0.7207.1/139.0.7207.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/nx2feuhmbx5ht7qvdplc75ex4q_139.0.7207.1/139.0.7207.1_chrome_installer.exe"
         ]
     }
 }
