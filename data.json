@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "139.0.7212.1",
-        "size": 162652016,
-        "sha1": "ca4f92c6ec1c1a6bec45475583a6f9d83b9a5652",
-        "sha256": "6028d4e98b54def39a9f90b12cb60d8f014f7e0627a3dce738488b13acf33ff6",
+        "version": "139.0.7213.0",
+        "size": 128260976,
+        "sha1": "6d10f614b3f9c9f36ed0db557a6f35f9a85ba584",
+        "sha256": "20f0723c46860de41873b796b1de5ff8184c227ac05a5aa2e54f435f8c8d5077",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/p4evi7rbolisvpr444gtb2ndwm_139.0.7212.1/139.0.7212.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/p4evi7rbolisvpr444gtb2ndwm_139.0.7212.1/139.0.7212.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/p4evi7rbolisvpr444gtb2ndwm_139.0.7212.1/139.0.7212.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/p4evi7rbolisvpr444gtb2ndwm_139.0.7212.1/139.0.7212.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/p4evi7rbolisvpr444gtb2ndwm_139.0.7212.1/139.0.7212.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/p4evi7rbolisvpr444gtb2ndwm_139.0.7212.1/139.0.7212.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/dzyqakgpvd5jcdjxqjrfhpsewa_139.0.7213.0/139.0.7213.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/dzyqakgpvd5jcdjxqjrfhpsewa_139.0.7213.0/139.0.7213.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/dzyqakgpvd5jcdjxqjrfhpsewa_139.0.7213.0/139.0.7213.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/dzyqakgpvd5jcdjxqjrfhpsewa_139.0.7213.0/139.0.7213.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/dzyqakgpvd5jcdjxqjrfhpsewa_139.0.7213.0/139.0.7213.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/dzyqakgpvd5jcdjxqjrfhpsewa_139.0.7213.0/139.0.7213.0_chrome_installer.exe"
         ]
     }
 }
