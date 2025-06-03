@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "139.0.7216.0",
-        "size": 128290672,
-        "sha1": "c77672e04233bb9015f83caecc415f989ad9a708",
-        "sha256": "152b16f9f45e20de00f280c2345f53fbb95fb1f1cf8576ae55786197d87d00db",
+        "version": "139.0.7216.1",
+        "size": 162647408,
+        "sha1": "2e93e0e1c4b6bd1bc0a19a17a671c0175e25e77d",
+        "sha256": "d7d403d9b721869bea2aa7784e302c90f3d9616e772095dd7e6f56923a5b10ae",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acoessvs3igko63omuwupmjbbybq_139.0.7216.0/139.0.7216.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acoessvs3igko63omuwupmjbbybq_139.0.7216.0/139.0.7216.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/acoessvs3igko63omuwupmjbbybq_139.0.7216.0/139.0.7216.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/acoessvs3igko63omuwupmjbbybq_139.0.7216.0/139.0.7216.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/acoessvs3igko63omuwupmjbbybq_139.0.7216.0/139.0.7216.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/acoessvs3igko63omuwupmjbbybq_139.0.7216.0/139.0.7216.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/btpov6qfwig22jxft444desyge_139.0.7216.1/139.0.7216.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/btpov6qfwig22jxft444desyge_139.0.7216.1/139.0.7216.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/btpov6qfwig22jxft444desyge_139.0.7216.1/139.0.7216.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/btpov6qfwig22jxft444desyge_139.0.7216.1/139.0.7216.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/btpov6qfwig22jxft444desyge_139.0.7216.1/139.0.7216.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/btpov6qfwig22jxft444desyge_139.0.7216.1/139.0.7216.1_chrome_installer.exe"
         ]
     }
 }
