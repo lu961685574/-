@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-06-22 04:28:09 (UTC-4)
+2025-06-22 05:22:55 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ggo6n6ecnyzhnic6mus76uwnrq_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ggo6n6ecnyzhnic6mus76uwnrq_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：139.0.7253.1  
-**文件大小**：496.66 MB  
-**校验值（Sha256）**：4ef95f9deafbc5570175c60ff82f45a540218f4a8db5b9d3e302592affe23dcb  
-**下载链接**：[https://dl.google.com/release2/chrome/acyqznwmk7hbabtyjstbdrfy4v6a_139.0.7253.1/139.0.7253.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acyqznwmk7hbabtyjstbdrfy4v6a_139.0.7253.1/139.0.7253.1_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7254.0  
+**文件大小**：334.24 MB  
+**校验值（Sha256）**：44c1ca9c89074e0158572ed7d99695283fb6a3b6776736bc6d378750069ebbd7  
+**下载链接**：[https://dl.google.com/release2/chrome/adkvfkkvbxg3aiclc3qydxdkca2a_139.0.7254.0/139.0.7254.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adkvfkkvbxg3aiclc3qydxdkca2a_139.0.7254.0/139.0.7254.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：139.0.7254.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/lfgdoznmmeln33uarbrimcjbzi_139.0.7254.0/139.0.7254.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/lfgdoznmmeln33uarbrimcjbzi_139.0.7254.0/139.0.7254.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：139.0.7253.0  
-**文件大小**：395.73 MB  
-**校验值（Sha256）**：962994bbdf1aa52431c4e38677bb897a9ddacf26fa7244a6b0c6125e99ffaae6  
-**下载链接**：[https://dl.google.com/release2/chrome/acskmulnsmi65ukfhbodsrwphysq_139.0.7253.0/139.0.7253.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acskmulnsmi65ukfhbodsrwphysq_139.0.7253.0/139.0.7253.0_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7254.0  
+**文件大小**：396.47 MB  
+**校验值（Sha256）**：726ccc2457fb1e7300b8534825a98795615ad5e513d3839cfc83d75c7dc6e150  
+**下载链接**：[https://dl.google.com/release2/chrome/k5wkc3kq4syjxsw5hkyj2bwjwa_139.0.7254.0/139.0.7254.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/k5wkc3kq4syjxsw5hkyj2bwjwa_139.0.7254.0/139.0.7254.0_chrome_installer_uncompressed.exe)  
 
