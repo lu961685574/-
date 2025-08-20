@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-08-19 19:20:32 (UTC-4)
+2025-08-19 21:50:23 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/dsxphbrl5g2jjmpz745tak25hq_141.0.7366.0/141.0.7366.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dsxphbrl5g2jjmpz745tak25hq_141.0.7366.0/141.0.7366.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：141.0.7366.0  
-**文件大小**：415.14 MB  
-**校验值（Sha256）**：f7c939bca065b733412d02a6e5333b76345c66405378452a83ab863f9ecac5fd  
-**下载链接**：[https://dl.google.com/release2/chrome/eml43uobf3s43ww45dghk44c3a_141.0.7366.0/141.0.7366.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/eml43uobf3s43ww45dghk44c3a_141.0.7366.0/141.0.7366.0_chrome_installer_uncompressed.exe)  
+**最新版本**：141.0.7366.1  
+**文件大小**：609.55 MB  
+**校验值（Sha256）**：73e0574efce5f81f31b421073389b5dd09480350ee70d6d79a259de42f8a78ac  
+**下载链接**：[https://dl.google.com/release2/chrome/fjotnwmalkhgtkbjojfp3wapya_141.0.7366.1/141.0.7366.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fjotnwmalkhgtkbjojfp3wapya_141.0.7366.1/141.0.7366.1_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：141.0.7366.0  
-**文件大小**：408.4 MB  
-**校验值（Sha256）**：3910de942eea0529e2b4bd7ca0b48137b8bec35519b2b422ca8bf0ee5519b662  
-**下载链接**：[https://dl.google.com/release2/chrome/g3grf2afzouak7tduqjr6s65pa_141.0.7366.0/141.0.7366.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/g3grf2afzouak7tduqjr6s65pa_141.0.7366.0/141.0.7366.0_chrome_installer_uncompressed.exe)  
+**最新版本**：141.0.7366.1  
+**文件大小**：568.38 MB  
+**校验值（Sha256）**：10980be3a5b9c5b3cfccab18483c550ca931b3f343a7eb67ed0aecdb80d26750  
+**下载链接**：[https://dl.google.com/release2/chrome/ftssrnjtrkwwfmtdirhrshoyym_141.0.7366.1/141.0.7366.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ftssrnjtrkwwfmtdirhrshoyym_141.0.7366.1/141.0.7366.1_chrome_installer_uncompressed.exe)  
 
