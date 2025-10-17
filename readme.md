@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-10-17 04:30:35 (UTC-4)
+2025-10-17 05:24:21 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acvp6m427k3zcql5s45zuhkonnja_143.0.7461.3/143.0.7461.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acvp6m427k3zcql5s45zuhkonnja_143.0.7461.3/143.0.7461.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：143.0.7476.1  
-**文件大小**：523.02 MB  
-**校验值（Sha256）**：9b56d66154565ff354858fac3e2a0d307b85e84d753e6acb223f15d7a681589d  
-**下载链接**：[https://dl.google.com/release2/chrome/ad2eul3lobz37fqxhlekcbui7kwa_143.0.7476.1/143.0.7476.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad2eul3lobz37fqxhlekcbui7kwa_143.0.7476.1/143.0.7476.1_chrome_installer_uncompressed.exe)  
+**最新版本**：143.0.7477.0  
+**文件大小**：349.85 MB  
+**校验值（Sha256）**：09eecd4a1be0a658a42487d8192e4d351d11618a526051ab9cd077526c0a20d3  
+**下载链接**：[https://dl.google.com/release2/chrome/cyuclly6ujnughf2z5knf2dose_143.0.7477.0/143.0.7477.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cyuclly6ujnughf2z5knf2dose_143.0.7477.0/143.0.7477.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：143.0.7477.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adjdd22tijdg5sxuxn7oau7kux4q_143.0.7477.0/143.0.7477.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adjdd22tijdg5sxuxn7oau7kux4q_143.0.7477.0/143.0.7477.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：143.0.7476.1  
-**文件大小**：579.82 MB  
-**校验值（Sha256）**：c9dba4aadd035ea39a2da83768f7832a1648bd30bca0a9b53a47e7ad428e56fc  
-**下载链接**：[https://dl.google.com/release2/chrome/dnh2aqhtmtzre52vwg44qidygy_143.0.7476.1/143.0.7476.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dnh2aqhtmtzre52vwg44qidygy_143.0.7476.1/143.0.7476.1_chrome_installer_uncompressed.exe)  
+**最新版本**：143.0.7477.0  
+**文件大小**：412.28 MB  
+**校验值（Sha256）**：6080115beeba1240cfefa3289de953cf0768a9089bedb75be8b611cc2966592f  
+**下载链接**：[https://dl.google.com/release2/chrome/acnvtfleikqv54cwmcvoqomwzf6a_143.0.7477.0/143.0.7477.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acnvtfleikqv54cwmcvoqomwzf6a_143.0.7477.0/143.0.7477.0_chrome_installer_uncompressed.exe)  
 
