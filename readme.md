@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-10-19 03:18:06 (UTC-4)
+2025-10-19 04:25:51 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -55,22 +55,22 @@
 **下载链接**：[https://dl.google.com/release2/chrome/dt2uqbcqltsfxyv5h6ukemz26e_142.0.7444.34/142.0.7444.34_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dt2uqbcqltsfxyv5h6ukemz26e_142.0.7444.34/142.0.7444.34_chrome_installer_uncompressed.exe)  
 
 ## win dev x86
-**最新版本**：143.0.7475.7  
+**最新版本**：143.0.7475.8  
 **文件大小**：349.32 MB  
-**校验值（Sha256）**：f3523379da9be9a11d5a98c0077420f640e71e898ef04f487f6cc0986be7eed8  
-**下载链接**：[https://dl.google.com/release2/chrome/nu5sbm5qd7u2hgny5mdqpdqgtq_143.0.7475.7/143.0.7475.7_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/nu5sbm5qd7u2hgny5mdqpdqgtq_143.0.7475.7/143.0.7475.7_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：4a479aa15e1110d9d5052bd2b0e8560a8817f067bdb52003f21fdc9d5a06c1b0  
+**下载链接**：[https://dl.google.com/release2/chrome/achfoyhlya2gtzba5yz72fa7dnha_143.0.7475.8/143.0.7475.8_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/achfoyhlya2gtzba5yz72fa7dnha_143.0.7475.8/143.0.7475.8_chrome_installer_uncompressed.exe)  
 
 ## win dev x64
-**最新版本**：143.0.7475.7  
+**最新版本**：143.0.7475.8  
 **文件大小**：419.59 MB  
-**校验值（Sha256）**：48757588f075bafb802579b263cf82e5180e226de79db2f2b7afc21f5e68a726  
-**下载链接**：[https://dl.google.com/release2/chrome/a2bnoniebjysvcryqic6q3kvo4_143.0.7475.7/143.0.7475.7_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/a2bnoniebjysvcryqic6q3kvo4_143.0.7475.7/143.0.7475.7_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：eee9ad4632ada60f896893cfe22c8e29d196bb3cd1ec45ef5e639055c5de4e05  
+**下载链接**：[https://dl.google.com/release2/chrome/bvm5y66y5neleq5npdrzfkk5yi_143.0.7475.8/143.0.7475.8_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/bvm5y66y5neleq5npdrzfkk5yi_143.0.7475.8/143.0.7475.8_chrome_installer_uncompressed.exe)  
 
 ## win dev arm64
-**最新版本**：143.0.7475.7  
+**最新版本**：143.0.7475.8  
 **文件大小**：407.92 MB  
-**校验值（Sha256）**：ae2ae67b851c634b57825c24b0cf2a42a95e74483afb3e65a6d793fe47460a5a  
-**下载链接**：[https://dl.google.com/release2/chrome/iy52qbte7ysjmf5tclkqcdavbu_143.0.7475.7/143.0.7475.7_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/iy52qbte7ysjmf5tclkqcdavbu_143.0.7475.7/143.0.7475.7_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：3b71fa8d387541261baafc47f1d0a39a9e6383626ac5d9cc3f5329a5c7ca5dc2  
+**下载链接**：[https://dl.google.com/release2/chrome/e26wgonvooyjccqxqzre4htlhy_143.0.7475.8/143.0.7475.8_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/e26wgonvooyjccqxqzre4htlhy_143.0.7475.8/143.0.7475.8_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
 **最新版本**：143.0.7480.1  
@@ -79,10 +79,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adt5rst4bxekwpjvcy6vdtn3a6aq_143.0.7480.1/143.0.7480.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adt5rst4bxekwpjvcy6vdtn3a6aq_143.0.7480.1/143.0.7480.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：143.0.7480.1  
-**文件大小**：625.19 MB  
-**校验值（Sha256）**：b72119193fbdfbee6eaa90d39bf72686c9be2fd3a354fa7bd06fdf7eb8ba83da  
-**下载链接**：[https://dl.google.com/release2/chrome/ilsiyl3t24uffpy3yyjk6ups6q_143.0.7480.1/143.0.7480.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ilsiyl3t24uffpy3yyjk6ups6q_143.0.7480.1/143.0.7480.1_chrome_installer_uncompressed.exe)  
+**最新版本**：143.0.7481.0  
+**文件大小**：420.47 MB  
+**校验值（Sha256）**：9d8121bd87879cd2c5d2465941f048aead88541293d117d1417ccc842824092e  
+**下载链接**：[https://dl.google.com/release2/chrome/acokylsmlhpphgiabmopr6bgka4a_143.0.7481.0/143.0.7481.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acokylsmlhpphgiabmopr6bgka4a_143.0.7481.0/143.0.7481.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
 **最新版本**：143.0.7480.0  
