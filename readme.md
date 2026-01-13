@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-01-13 08:56:42 (UTC-4)
+2026-01-13 09:46:15 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adnkguofwbeymo3tyqmnlkw6dj6q_145.0.7620.3/145.0.7620.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adnkguofwbeymo3tyqmnlkw6dj6q_145.0.7620.3/145.0.7620.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：145.0.7632.0  
-**文件大小**：355.64 MB  
-**校验值（Sha256）**：5e2b2d8819876669dc3eb54f2eafad9dbbf35e5c4529d9b7d164c375faf19f5a  
-**下载链接**：[https://dl.google.com/release2/chrome/adhojs6jhmtqyrhxolu4e624kfbq_145.0.7632.0/145.0.7632.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adhojs6jhmtqyrhxolu4e624kfbq_145.0.7632.0/145.0.7632.0_chrome_installer_uncompressed.exe)  
+**最新版本**：145.0.7632.1  
+**文件大小**：534.04 MB  
+**校验值（Sha256）**：1fa98703401822c4c54179934a35a97798b771111157d984abab3dee89008a2c  
+**下载链接**：[https://dl.google.com/release2/chrome/adjgp625msjscqr4imv2g7vk3yrq_145.0.7632.1/145.0.7632.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adjgp625msjscqr4imv2g7vk3yrq_145.0.7632.1/145.0.7632.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：145.0.7632.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/jmn46ladwbvox4bi3olcqcucky_145.0.7632.0/145.0.7632.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/jmn46ladwbvox4bi3olcqcucky_145.0.7632.0/145.0.7632.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：145.0.7632.0  
-**文件大小**：420.35 MB  
-**校验值（Sha256）**：1d96a649df645a894963c2483afdf4051e37c15d19d6a1d84c909fcecf1b295a  
-**下载链接**：[https://dl.google.com/release2/chrome/l5ednn5fvqcr3aitied4qjiakq_145.0.7632.0/145.0.7632.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/l5ednn5fvqcr3aitied4qjiakq_145.0.7632.0/145.0.7632.0_chrome_installer_uncompressed.exe)  
+**最新版本**：145.0.7632.1  
+**文件大小**：592.06 MB  
+**校验值（Sha256）**：6d7e30e50568f2cf3176428bb3f8038f9a1964ec5513c2ab0875c02157f6fe6f  
+**下载链接**：[https://dl.google.com/release2/chrome/acxh5zsxbkogswyfrkm24qjuaiqq_145.0.7632.1/145.0.7632.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acxh5zsxbkogswyfrkm24qjuaiqq_145.0.7632.1/145.0.7632.1_chrome_installer_uncompressed.exe)  
 
