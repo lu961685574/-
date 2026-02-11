@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-02-11 01:05:52 (UTC-4)
+2026-02-11 03:07:28 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/idm7wqgmvcnnwonx2mbq3pebye_146.0.7680.2/146.0.7680.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/idm7wqgmvcnnwonx2mbq3pebye_146.0.7680.2/146.0.7680.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：146.0.7680.2  
+**最新版本**：146.0.7680.4  
 **文件大小**：446.58 MB  
-**校验值（Sha256）**：f1507b7f681f84bf4831b50e96923a9c731bd32715fd47477d80e23f48ee3c1b  
-**下载链接**：[https://dl.google.com/release2/chrome/mg3zookpqhrwz6af3v3aprxgaa_146.0.7680.2/146.0.7680.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/mg3zookpqhrwz6af3v3aprxgaa_146.0.7680.2/146.0.7680.2_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：90aa479f2bd3795d1d1b615050a638911c4d24bd2399e76fe37b96be226dbb26  
+**下载链接**：[https://dl.google.com/release2/chrome/jccqxig3zartrepknach4tvske_146.0.7680.4/146.0.7680.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/jccqxig3zartrepknach4tvske_146.0.7680.4/146.0.7680.4_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：146.0.7680.2  
+**最新版本**：146.0.7680.4  
 **文件大小**：431.02 MB  
-**校验值（Sha256）**：828d7cf99d72f2f1e99f90b97436252129a22082650384661794f349e52cd916  
-**下载链接**：[https://dl.google.com/release2/chrome/adh3ogr3whqdx63wc3unb54smxpa_146.0.7680.2/146.0.7680.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adh3ogr3whqdx63wc3unb54smxpa_146.0.7680.2/146.0.7680.2_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：46e7ee6c30b1cc1fd670cbce5404c1521544a0a93f1690969bdc099fb5bb515a  
+**下载链接**：[https://dl.google.com/release2/chrome/g7lsd7iwo6224s3qwob44j33ey_146.0.7680.4/146.0.7680.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/g7lsd7iwo6224s3qwob44j33ey_146.0.7680.4/146.0.7680.4_chrome_installer_uncompressed.exe)  
 
