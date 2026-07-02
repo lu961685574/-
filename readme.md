@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-07-02 01:00:29 (UTC-4)
+2026-07-02 05:19:05 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/cdtsztw4uyrpmq2t6567wp3tni_152.0.7924.0/152.0.7924.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cdtsztw4uyrpmq2t6567wp3tni_152.0.7924.0/152.0.7924.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：152.0.7924.0  
-**文件大小**：489.01 MB  
-**校验值（Sha256）**：84da55ba4db05f01a6901ac2256d6ad6ecd5e36a78ec0cd085df3f56c093f890  
-**下载链接**：[https://dl.google.com/release2/chrome/ad75txxqyfwnamcsjcbuv6byr3fa_152.0.7924.0/152.0.7924.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad75txxqyfwnamcsjcbuv6byr3fa_152.0.7924.0/152.0.7924.0_chrome_installer_uncompressed.exe)  
+**最新版本**：152.0.7925.0  
+**文件大小**：488.61 MB  
+**校验值（Sha256）**：28b6c172b29767953b5418d94c87bd7213cc5fb71b4fb1a316919d88f82edf3b  
+**下载链接**：[https://dl.google.com/release2/chrome/djmdbblrz4opvfudhssj2ajhfu_152.0.7925.0/152.0.7925.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/djmdbblrz4opvfudhssj2ajhfu_152.0.7925.0/152.0.7925.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：152.0.7924.0  
-**文件大小**：463.93 MB  
-**校验值（Sha256）**：4578fdbf2c22feef3627694aebecd29f33af88e36fea1c4a67154f08d1c9157a  
-**下载链接**：[https://dl.google.com/release2/chrome/kuc223v2ijz5zspysrcdwq3exm_152.0.7924.0/152.0.7924.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/kuc223v2ijz5zspysrcdwq3exm_152.0.7924.0/152.0.7924.0_chrome_installer_uncompressed.exe)  
+**最新版本**：152.0.7925.0  
+**文件大小**：464.36 MB  
+**校验值（Sha256）**：fecb62d15d7aa91f7ba12cf50adc1e964e884bbe9555673883cf282deab98c59  
+**下载链接**：[https://dl.google.com/release2/chrome/efb2hxb2wg7ppya7426qrrgpsa_152.0.7925.0/152.0.7925.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/efb2hxb2wg7ppya7426qrrgpsa_152.0.7925.0/152.0.7925.0_chrome_installer_uncompressed.exe)  
 
