@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-07-30 23:23:05 (UTC-4)
+2026-07-31 02:47:39 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ibwvljtmpl4m7pzyr2466vywju_152.0.7967.2/152.0.7967.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ibwvljtmpl4m7pzyr2466vywju_152.0.7967.2/152.0.7967.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：153.0.7981.0  
+**最新版本**：153.0.7981.3  
 **文件大小**：397.73 MB  
-**校验值（Sha256）**：320bb890f131efde018f004d1d3e79d80ad4fd9d75b60843c79dbdd3d2db4289  
-**下载链接**：[https://dl.google.com/release2/chrome/adzl23xpopddyukfquplbjvjqsla_153.0.7981.0/153.0.7981.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adzl23xpopddyukfquplbjvjqsla_153.0.7981.0/153.0.7981.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：513dfb51e6a1084e995f46c38bc8f7eeb13c7dd692559dc03448715b617bee3e  
+**下载链接**：[https://dl.google.com/release2/chrome/adqzyhpopf6erp344rut4gno2fia_153.0.7981.3/153.0.7981.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adqzyhpopf6erp344rut4gno2fia_153.0.7981.3/153.0.7981.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：153.0.7981.3  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/gjbrjpu5vdw53yq3rsu7tfnu6q_153.0.7981.3/153.0.7981.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/gjbrjpu5vdw53yq3rsu7tfnu6q_153.0.7981.3/153.0.7981.3_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：153.0.7981.0  
+**最新版本**：153.0.7981.3  
 **文件大小**：461.44 MB  
-**校验值（Sha256）**：69e7151024456716c62c0b2ef5739f86350614dae9e6c32dd5fb32a948cb7e68  
-**下载链接**：[https://dl.google.com/release2/chrome/gnkbiul2rf3jj7r7k3zmeokhfa_153.0.7981.0/153.0.7981.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/gnkbiul2rf3jj7r7k3zmeokhfa_153.0.7981.0/153.0.7981.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：cd262056934019a563394061e34d0d437468bb466d21123505bf73d2119c0bc5  
+**下载链接**：[https://dl.google.com/release2/chrome/adicjnqumvgeci7cmtfrlospdz6a_153.0.7981.3/153.0.7981.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adicjnqumvgeci7cmtfrlospdz6a_153.0.7981.3/153.0.7981.3_chrome_installer_uncompressed.exe)  
 
