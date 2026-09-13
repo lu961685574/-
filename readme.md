@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-09-13 17:17:20 (UTC-4)
+2026-09-13 19:57:47 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adeljwebyioinezdk5yxfiawvdtq_155.0.8048.0/155.0.8048.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adeljwebyioinezdk5yxfiawvdtq_155.0.8048.0/155.0.8048.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：155.0.8055.1  
-**文件大小**：636.18 MB  
-**校验值（Sha256）**：bdb5447b1b3696e8ec177a4f40b7ea1d8befe13f7f75d0c52aeabd91deeb1d75  
-**下载链接**：[https://dl.google.com/release2/chrome/adjnvqleiw26kvc7cl54j6wze2ga_155.0.8055.1/155.0.8055.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adjnvqleiw26kvc7cl54j6wze2ga_155.0.8055.1/155.0.8055.1_chrome_installer_uncompressed.exe)  
+**最新版本**：155.0.8056.0  
+**文件大小**：422.58 MB  
+**校验值（Sha256）**：68b6eaf834727ba016cdf0a5ff6e4fc600e15f1e22fb9013cd91f3ae6274149c  
+**下载链接**：[https://dl.google.com/release2/chrome/acoaggtswtt24ha263zsdj2stnhq_155.0.8056.0/155.0.8056.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acoaggtswtt24ha263zsdj2stnhq_155.0.8056.0/155.0.8056.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：155.0.8056.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adthg6ktffmfwy4frdm64y4j7vsa_155.0.8056.0/155.0.8056.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adthg6ktffmfwy4frdm64y4j7vsa_155.0.8056.0/155.0.8056.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：155.0.8055.0  
-**文件大小**：473.65 MB  
-**校验值（Sha256）**：44255f79535adb2eb75088304877c630d213bb26fd5e50b46f33ab406b75eca4  
-**下载链接**：[https://dl.google.com/release2/chrome/e4r7g6eqdxo5qmveqemf3buway_155.0.8055.0/155.0.8055.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/e4r7g6eqdxo5qmveqemf3buway_155.0.8055.0/155.0.8055.0_chrome_installer_uncompressed.exe)  
+**最新版本**：155.0.8056.0  
+**文件大小**：473.8 MB  
+**校验值（Sha256）**：131d3459b6f594d03f512823bd23732ec7956ab519ea1f20de42d7be1540a7ec  
+**下载链接**：[https://dl.google.com/release2/chrome/csfxmlklioswitwvssjuv3pys4_155.0.8056.0/155.0.8056.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/csfxmlklioswitwvssjuv3pys4_155.0.8056.0/155.0.8056.0_chrome_installer_uncompressed.exe)  
 
