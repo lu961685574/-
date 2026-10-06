@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-10-05 18:23:30 (UTC-4)
+2026-10-05 22:46:24 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/b5bvxqfhb3dj66wdcsvhf5clxi_157.0.8081.0/157.0.8081.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/b5bvxqfhb3dj66wdcsvhf5clxi_157.0.8081.0/157.0.8081.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：157.0.8087.0  
+**最新版本**：157.0.8087.2  
 **文件大小**：429.35 MB  
-**校验值（Sha256）**：aa784ec4f59bff0611d2b9de112b573ab6680745f780036dfaf81135f1d36f4c  
-**下载链接**：[https://dl.google.com/release2/chrome/admwxf4iv2jloqbnack2l2lnk2qa_157.0.8087.0/157.0.8087.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/admwxf4iv2jloqbnack2l2lnk2qa_157.0.8087.0/157.0.8087.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：8e40da3a473e53a04d55ae931ef9f996192fd199493158f875487562ca592b7f  
+**下载链接**：[https://dl.google.com/release2/chrome/eh4iua2tngvtp5cosqt5ldtlg4_157.0.8087.2/157.0.8087.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/eh4iua2tngvtp5cosqt5ldtlg4_157.0.8087.2/157.0.8087.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：157.0.8087.2  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/f344f57xuqxmdj36odl3ni4dxi_157.0.8087.2/157.0.8087.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/f344f57xuqxmdj36odl3ni4dxi_157.0.8087.2/157.0.8087.2_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：157.0.8087.0  
+**最新版本**：157.0.8087.2  
 **文件大小**：479.4 MB  
-**校验值（Sha256）**：b54baedf58836995ed8197a0a997b1283883126e8dcb035c55783f53ea5c78d4  
-**下载链接**：[https://dl.google.com/release2/chrome/hjdqq2wtgxwysm25zsss45yfue_157.0.8087.0/157.0.8087.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/hjdqq2wtgxwysm25zsss45yfue_157.0.8087.0/157.0.8087.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：9221f83126d96e241bee37ed027f6a67ad5bd620a5b492b318e2aad55368b615  
+**下载链接**：[https://dl.google.com/release2/chrome/adduczsr2747ycwoglbd2i6ezdxa_157.0.8087.2/157.0.8087.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adduczsr2747ycwoglbd2i6ezdxa_157.0.8087.2/157.0.8087.2_chrome_installer_uncompressed.exe)  
 
